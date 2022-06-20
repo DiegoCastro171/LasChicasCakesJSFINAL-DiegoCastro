@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  body {
+    background-color: #ffe4e0;
+  }
+  .titulo {
+    color: white;
+    text-shadow: red;
+    text-align: center;
+    font-size: 6rem;
+    margin-top: 250px;
+  }
+  .cuerpo{
+    background-color: black;
+  }
+  footer{
+    background-color: aliceblue;
+    padding-bottom: 0;
+  }
+  header, .alert{
+    z-index: 100;
+  }
+  .hide{
+    display: none;
+  }
+  .remover{
+   display: none;
+  } 
+  footer{
+    background: #ffe4e0;
+  }
+  .contenedor_carrito{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    background: rgb(213, 149, 149);
+    border-radius: 50px;
+    align-items: flex-start;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+   align-items: center;
+  
+  }
+  .carrito_total{
+    font-size: 50px;
+    text-align: center;
+  }
+  .img{
+   
+    width: 150px;
+    height: 150px;
+  }
+
+img{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+  
+  .letra_carrito{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50px;
+    
+  }
+  .contenedor_carrito2{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  .Tarjetas{
+    display: grid;
+    justify-content: space-around;
+    padding: 25px;
+    border-radius: 50px;
+    background-color: rgb(213, 149, 149);
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(249, 253, 254);
+  }
+  .fin_compra{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    color: rgb(2, 2, 2);
+    margin-right: 285px;
+  }
+  .fincompra2{
+     display: grid;
+     text-align: center;
+     font-size: 50px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: rgb(213, 149, 149)
+  }

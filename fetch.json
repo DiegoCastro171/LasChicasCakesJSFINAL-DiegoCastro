@@ -1,0 +1,8 @@
+
+[
+    { "id": "1", "image": "./images/Tortas.png", "nombre": "Tortas", "precio": "2700" },
+    { "id": "2", "image": "./images/Cupcakes.png", "nombre": "CupCakes (x6)", "precio": "1300" },
+    { "id": "3", "image": "./images/Tartas.png", "nombre": "Tartas", "precio": "2200" },
+    { "id": "4", "image": "./images/Alfajores.png", "nombre": "Alfajores (x12)", "precio": "1500" }
+    
+]
